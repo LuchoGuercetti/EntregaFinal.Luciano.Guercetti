@@ -1,0 +1,30 @@
+en el index se agregaron:
+"limpieza, empresa, empresa limpieza, limpieza industrial, profesionales,
+    pumas, pumas limpieza"
+
+estas mismas hacen referencia a lo principal de la pagina.
+
+en empresa se utilizaron:
+limpieza, empresa, empresa limpieza, limpieza industrial, profesionales,
+    pumas, quienes somos, carcarañá.
+
+estas hacen referencia mas puntual sobre la empresa misma.
+
+contacto:
+"limpieza, empresa, empresa limpieza, limpieza industrial, profesionales,
+    pumas, pumas ubicacion, carcarañá, argentina"
+
+se utilizaron palabras mas especificas hacia su ubicacion geografica.
+
+nuestro trabajo:
+"limpieza, empresa, empresa limpieza, limpieza industrial, profesionales,
+    pumas, imagenes, quienes somos, carcarañá, argentina"
+
+se agregaron palabras referidas a las imagenes de la empresa y sus trabajos realizados
+tambien sobre el video institucional.
+
+RRHH:
+"limpieza, empresa, empresa limpieza, limpieza industrial, profesionales,
+    pumas, trabajo, curriculum, carcarañá, información"
+
+Se agregaron palabras que hacen referencia al trabajo buscado, curriculums etc.
