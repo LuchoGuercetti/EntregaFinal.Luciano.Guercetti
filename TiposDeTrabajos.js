@@ -89,6 +89,3 @@ function TiposDeTrabajos() {
     }
     console.log("fin de la busqueda");
 }
-
-
-
