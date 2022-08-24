@@ -1,4 +1,5 @@
 // funcion//
+let arrayDeempleado=[]
 function TiposDeTrabajos() {
 
     const trabajos = [
@@ -88,4 +89,35 @@ function TiposDeTrabajos() {
         SeleccioneTrabajo = prompt("Busca otro tipo de trabajo? si quiere salir escriba salir");
     }
     console.log("fin de la busqueda");
+    
+    mostrarListado()
+}
+
+
+
+function mostrarListado()
+ {
+    let listadoLI=document.getElementById('listadoUL');
+    listadoLI.innerHTML="";
+    for(empleado of arrayDeempleado)
+    {
+        listadoLI.appendChild(empleado.retornarNodoLI());
+    }
+}
+
+class Empleado
+{
+    constructor(nombre,apellido,edad,)
+    {
+        this.nombre=nombre;
+        this.apellido=apellido;
+        this.edad=edad;
+        this.fecha=new Date();
+    }
+    retornarNodoLI()
+    {
+         let nodo =document.createElement('li');
+        nodo.innerText=`${this.nombre} -- ${this.apellido} -- ${this.edad} `;
+        return nodo;
+    }
 }
